@@ -1,0 +1,14 @@
+body{
+    background-color: teal;
+    font-size: 1.25rem;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+a{
+    color: yellow;
+}
+
+a:hover{
+    color: palevioletred;
+}
