@@ -1,5 +1,5 @@
-# Vanilla-JavaScript
+# Vanilla JavaScript
 
 A playground about vanilla JavaScript.
 
-[/public/index.html]
+[Get Elements By Vanilla JavaScript](/public/index.html)
